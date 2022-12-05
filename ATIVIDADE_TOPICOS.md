@@ -8,5 +8,5 @@ E o terceiro é o aprendizado por reforço onde o computador toma suas decisões
 
 Um exemplo para o aprendizado supervisionado seria tentar prever o resultado no vestibular dos alunos do ensino médio baseado no desempenho que eles têm no colégio.
 Um bom exemplo de aprendizado não supervisionado são as recomendações de vídeos do youtube que analisa o comportamento do usuário e baseado no padrão de vídeos que o cliente assiste o software recomenda videos que tem grande chance do usuário assistir e continuar a consumir conteúdo no site.
-Um exemplo para aprendizado por reforço seria ensinar uma máquina a jogar xadrez melhor que um humano, para isso a máquina teria que jogar contra os melhores jogadores de xadrez até depois de perder várias vezes encontrasse a melhor estratégia para vencer todos os humanos no jogo. 
+E um exemplo para aprendizado por reforço seria ensinar uma máquina a jogar xadrez melhor que um humano, para isso a máquina teria que jogar contra os melhores jogadores de xadrez até depois de perder várias vezes encontrasse a melhor estratégia para vencer todos os humanos no jogo. 
 
