@@ -13,3 +13,4 @@ Testes automatizados são ferramentas utilizadas no desenvolvimeno de software p
 4. Escolha uma pirâmide de testes e descreva com suas palavras cada secção da pirâmide. 
 
 
+
